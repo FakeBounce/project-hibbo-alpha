@@ -6,23 +6,15 @@
 
 ### Dependencies and install
 
-You need to have Watchman installed:
-
-```
-brew install watchman
-
-```
-
 Install the React Native CLI:
 
 ```
 npm i - g react-native-cli
 ```
 
-Install Yarn or have least have version 1.1.0 already installed: 
-
+Install yarn: 
 ```
-curl -o- -L https://yarnpkg.com/install.sh | bash
+npm install yarn
 ```
 
 Install the packages:
